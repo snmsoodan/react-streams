@@ -1,0 +1,26 @@
+{
+  "Streams": [
+    {
+      "title": "first stream",
+      "description": "Great stream",
+      "id": 1
+    },
+    {
+      "title": "second stream",
+      "description": "another stream",
+      "id": 2
+    },
+    {
+      "title": "sanam's stream",
+      "description": "contains my id",
+      "userId": "106519349372144356210",
+      "id": 3
+    },
+    {
+      "title": "third stream",
+      "description": "test for the day",
+      "userId": "106519349372144356210",
+      "id": 4
+    }
+  ]
+}
